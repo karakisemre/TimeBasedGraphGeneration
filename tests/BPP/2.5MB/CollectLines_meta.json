@@ -1,0 +1,14 @@
+{
+  "source_path": "tests/BPP/2.5MB/CollectLines.txt",
+  "rows_total": 2654,
+  "rows_collect": 2654,
+  "frames_min": 0,
+  "frames_max": 1008,
+  "time_min": 21114191400987,
+  "time_max": 21224392434595,
+  "layers": [
+    0,
+    1,
+    2
+  ]
+}

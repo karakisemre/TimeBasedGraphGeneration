@@ -1,0 +1,14 @@
+{
+  "source_path": "tests/UDP/2.5MB/CollectLines.txt",
+  "rows_total": 1894,
+  "rows_collect": 1894,
+  "frames_min": 0,
+  "frames_max": 640,
+  "time_min": 24450111684081,
+  "time_max": 24493141878995,
+  "layers": [
+    0,
+    1,
+    2
+  ]
+}

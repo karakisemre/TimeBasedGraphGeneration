@@ -1,0 +1,14 @@
+{
+  "source_path": "dynamictests/UDP/UDP_Azalan_3_2_1_Mbps/CollectLines.txt",
+  "rows_total": 2087,
+  "rows_collect": 2087,
+  "frames_min": 0,
+  "frames_max": 704,
+  "time_min": 1595402622935,
+  "time_max": 1636758601984,
+  "layers": [
+    0,
+    1,
+    2
+  ]
+}

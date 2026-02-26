@@ -1,0 +1,14 @@
+{
+  "source_path": "dynamictests/UDP/UDP_Artan_1_2_3_Mbps/CollectLines.txt",
+  "rows_total": 2090,
+  "rows_collect": 2090,
+  "frames_min": 0,
+  "frames_max": 704,
+  "time_min": 969397824957,
+  "time_max": 1010826518189,
+  "layers": [
+    0,
+    1,
+    2
+  ]
+}

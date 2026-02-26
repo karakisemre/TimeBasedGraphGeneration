@@ -1,0 +1,14 @@
+{
+  "source_path": "dynamictests/BPP/BPP_Artan_1_2_3_Mbps/CollectLines.txt",
+  "rows_total": 1187,
+  "rows_collect": 1187,
+  "frames_min": 0,
+  "frames_max": 1008,
+  "time_min": 4163893149457,
+  "time_max": 4258576871420,
+  "layers": [
+    0,
+    1,
+    2
+  ]
+}

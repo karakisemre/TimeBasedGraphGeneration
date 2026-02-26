@@ -1,0 +1,14 @@
+{
+  "source_path": "dynamictests/UDP/UDP_Degisken_3_1_2_Mbps/CollectLines.txt",
+  "rows_total": 2086,
+  "rows_collect": 2086,
+  "frames_min": 0,
+  "frames_max": 704,
+  "time_min": 2122887582670,
+  "time_max": 2164235228870,
+  "layers": [
+    0,
+    1,
+    2
+  ]
+}
